@@ -1,0 +1,1 @@
+In this repository, I'll post my evolution in python from scratch.
